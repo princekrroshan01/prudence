@@ -1,0 +1,14 @@
+/home/prince/.mozilla/firefox/e39rw0vy.default-release/places.sqlite
+/home/prince/.mozilla/firefox/e39rw0vy.default-release/places.sqlite
+
+/home/prince/.mozilla/firefox/e39rw0vy.default-release/places.sqlite-wal
+/home/prince/.mozilla/firefox/e39rw0vy.default-release/places.sqlite-wal
+
+/home/prince/.thunderbird/gcmkerx1.default/places.sqlite
+/home/prince/.thunderbird/gcmkerx1.default/places.sqlite
+
+/home/prince/Documents/TACKER/places.sqlite
+/home/prince/Documents/TACKER/places.sqlite
+
+/home/prince/Documents/TACKER/places.sqlite-shm
+/home/prince/Documents/TACKER/places.sqlite-wal
