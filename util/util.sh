@@ -2,3 +2,4 @@
 
 
 locate places.sqlite > out.txt 
+
